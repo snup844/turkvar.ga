@@ -121,6 +121,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -147,14 +149,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603070944900">
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603073958422">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1603070944900" />
-    <state width="230" height="499" key="HiddenNamespacesPopup" timestamp="1603071033962">
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1603073958422" />
+    <state width="230" height="499" key="HiddenNamespacesPopup" timestamp="1603073850926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="230" height="499" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1603071033962" />
+    <state width="230" height="499" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1603073850926" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1603071101658">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
